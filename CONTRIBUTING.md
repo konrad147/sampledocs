@@ -1,3 +1,7 @@
 # How to Contribute
 
-TODO
+Simple table
+
+|Hello|Kognifai|
+|-----|--------|
+|This is | row |
