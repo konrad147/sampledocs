@@ -7,3 +7,5 @@ Simple table
 |This is | row |
 
  This is something **new**.
+
+Description of some super feature!!! `hi`
