@@ -4,7 +4,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent erat neque, ve
 
 Nullam pretium, magna et iaculis scelerisque, nulla purus sagittis eros, at tincidunt mi neque ut ante. Etiam non porttitor eros, sit amet tempor velit. Aliquam in _feugiat ligula_. Donec ullamcorper, ligula quis hendrerit scelerisque, odio ante rhoncus mauris, a scelerisque sapien leo in ex. Proin gravida maximus velit, in lacinia neque volutpat ac. Pellentesque viverra sem vel finibus euismod. In scelerisque purus vitae ipsum sodales euismod. In blandit rutrum velit in auctor.
 
-[Url test](https://github.com/konrad147/sampledocs/blob/master/CONTRIBUTING.md)
+[Url test](https://github.com/fortedigital/sampledocs/blob/master/fortedigital/sample.md)
 
 ![Forte_ Digital](img/f_.png)
 
