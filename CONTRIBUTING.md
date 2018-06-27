@@ -15,3 +15,5 @@ Dzień dobry
 Dobranoc
 
 [Fote Sample](https://github.com/konrad147/sampledocs/blob/master/fortedigital/sample.md)
+
+[Core os Documentation](https://github.com/coreos/docs)
