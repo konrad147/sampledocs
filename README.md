@@ -1,6 +1,6 @@
 # README 1
 
-This repository contains ....
+This repository contains .... some funcy stuff
 
 ## Contributing
 
